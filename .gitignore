@@ -39,3 +39,5 @@ Thumbs.db
 
 # log files
 *.log
+
+!gradle/wrapper/gradle-wrapper.jar
