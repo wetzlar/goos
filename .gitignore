@@ -41,3 +41,7 @@ Thumbs.db
 *.log
 
 !gradle/wrapper/gradle-wrapper.jar
+
+
+# Ignore an eventually downloaded openfire server
+server/
